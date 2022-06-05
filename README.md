@@ -11,6 +11,4 @@
 
 # I am also working on a website
 
-[](https://user-images.githubusercontent.com/99337722/172059598-40f30e69-393a-4367-895d-aade9a6429fb.png)
-
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
