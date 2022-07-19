@@ -2,10 +2,10 @@
 
 <h3 align="center">I am a python, javascript, typescript, lua, html and css developer.</h3>
 
-- 🔭 I’m currently working on a twitter username checker
+- 🔭 I’m currently working on voiding prison life script
 - 🌱 I’m currently learning c#, c++ and lua
-- 💬 Ask me about anything on discord, dripy#5555
-- 📫 How to reach me: discord: dripy#5555
+- 💬 Ask me about anything on: don't ask me anything
+- 📫 How to reach me: discord: don't
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i code in my freetime
 
